@@ -66,4 +66,3 @@ public class BonusServiceTest {
         assertEquals(expected, actual);
     }
 }
-
